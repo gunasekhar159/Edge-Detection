@@ -24,7 +24,7 @@ Apply the respective filters -Sobel,Laplacian edge dectector and Canny edge dect
 Display the filtered image using plot and imshow.
 
 
- 
+ ```
 ## Program:
 Program to perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 Developed by:M.GUNASEKHAR
@@ -116,25 +116,25 @@ plt.show()
 
 ## SOBEL X:
 
-![OUTPUT](https://github.com/gunasekhar159/Edge-Detection/blob/main/A.png?raw=true)
+![output](https://github.com/gunasekhar159/Edge-Detection/blob/main/A.png?raw=true)
 
 ## SOBEL Y:
 
-![OUTPUT](https://github.com/gunasekhar159/Edge-Detection/blob/main/B.png?raw=true)
+![output](https://github.com/gunasekhar159/Edge-Detection/blob/main/B.png?raw=true)
 
 ## SOBEL XY:
 
-![OUTPUT](https://github.com/gunasekhar159/Edge-Detection/blob/main/C.png?arw=true)
+![output](https://github.com/gunasekhar159/Edge-Detection/blob/main/C.png?arw=true)
 
 
 ### LAPLACIAN EDGE DETECTOR
 
-![OUTPUT](https://github.com/gunasekhar159/Edge-Detection/blob/main/D.png?raw=true)
+![output](https://github.com/gunasekhar159/Edge-Detection/blob/main/D.png?raw=true)
 
 
 ### CANNY EDGE DETECTOR
 
-![OUTPUT](https://github.com/gunasekhar159/Edge-Detection/blob/main/E.png?raw=true)
+![output](https://github.com/gunasekhar159/Edge-Detection/blob/main/E.png?raw=true)
 
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
